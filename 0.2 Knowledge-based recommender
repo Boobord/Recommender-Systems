@@ -124,35 +124,3 @@ build_chart(gen_df).head()
 #Set parameter index to False as the index of the DataFrame has no inherent meaning.
 df.to_csv('metadata_clean.csv', index=False)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
