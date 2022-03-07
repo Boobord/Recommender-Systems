@@ -196,28 +196,3 @@ df = df.reset_index()
 indices2 = pd.Series(df.index, index=df['title'])
 
 content_recommender('The Lion King', cosine_sim2, df, indices2)
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
